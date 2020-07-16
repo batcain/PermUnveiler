@@ -9,5 +9,5 @@ sudo pip3 install androguard ; sudo pip3 install termcolor
 ```
 ## **Usage:**
 
-![help](http://github.com/batcain/PermUnveiler/help.png)
-![demo](http://github.com/batcain/PermUnveiler/demo.png)
+![help](/help.png)
+![demo](/demo.png)
